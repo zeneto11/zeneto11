@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/zeneto11">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneto11&layout=compact&theme=dracula&include_all_comits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneto11&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zeneto11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card_width=360"/>
 </div>
 
